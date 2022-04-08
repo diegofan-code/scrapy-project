@@ -1,2 +1,4 @@
 *.html
 *.json
+_pycache_/
+scrapyenv/
